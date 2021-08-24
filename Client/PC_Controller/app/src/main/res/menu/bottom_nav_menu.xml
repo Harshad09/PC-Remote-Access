@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/mouse"
+        android:icon="@drawable/ic_baseline_mouse_24"
+        android:title="Mouse"/>
+    <item
+        android:id="@+id/keyboard"
+        android:icon="@drawable/ic_baseline_keyboard_24"
+        android:title="Keyboard"/>
+    <item
+        android:id="@+id/multipleKeys"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="Multiple Keys"/>
+</menu>
