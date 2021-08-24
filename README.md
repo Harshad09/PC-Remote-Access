@@ -3,7 +3,7 @@
   PC Remote Access / PC Controller
 </h1>
 <p align="center"><b>Control your laptop/computer using your Android Phone over Wi-Fi.</b></p>
-<p align="center"></a>&nbsp;<a href="https://www.linkedin.com/in/harshad-dabhade-a2a584175/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me%20on%20Linkedin-brightgreen?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a></a>&nbsp;<img src="https://img.shields.io/badge/license-MIT-red?style=for-the-badge&logo=none" alt="license" /></p>
+<p align="center"></a>&nbsp;<a href="https://www.linkedin.com/in/harshad-dabhade-a2a584175/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me%20on%20Linkedin-brightgreen?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a></a>&nbsp; <a href="https://github.com/Harshad09/PC-Remote-Access/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-red?style=for-the-badge&logo=none" alt="license" /></a></p>
 
 ## About The Project
 This is an android application that can remotely control the hosting computer using Wi-Fi. The server is located at the remote computer then the client in the android device tries to connect to the server. Once the connection is successful the android device can control the pc remotely.
